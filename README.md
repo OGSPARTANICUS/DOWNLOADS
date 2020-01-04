@@ -3,7 +3,11 @@
 ![logo](https://cdn.dribbble.com/users/3254730/screenshots/7002482/kraken_shot_dribbble.png "Header.exe")
 
 ## About Project-Butter
+----------
 `Project-Butter 4.0` is an open source Kernel Project for Samsung Exynos 7870 devices. For challenges using, integrating, compiling, or modifying this software, we encourage posting on the Issues page for the particular project. (Hopefully issues won't happen, and you'll have a lot of fun and a great experience while using this kernel.)
+
+## Compatibility
+----------
 
 
 ## Installing
@@ -15,6 +19,7 @@ You must have [Project-Spaget](https://forum.xda-developers.com/galaxy-j7/samsun
 Put the `.zip` package inside your phone, make a backup of your previous `boot.img` and flash the latest available `.zip` file!
 
 ## LICENSE
+----------
 ```
  Copyright (c), The Linux Foundation. All rights reserved.
  
