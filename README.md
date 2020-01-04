@@ -27,6 +27,7 @@ and you'll have a lot of fun and a great experience while using this kernel!
 ## Installing
 ----------
 ### For Generic System Images:
+----------
 Download the `.zip` file [here](http://github.com/SPART4NICUS/DOWNLOADS/releases). 
 The `.zip` file includes all needed dependencies and packages. 
 You must have 
@@ -35,7 +36,12 @@ Put the `.zip` package inside your phone, make a backup of your previous `boot.i
 and flash the latest available `.zip` file!
 
 ### For One UI:
-
+----------
+Download the `.zip` file [here](http://github.com/SPART4NICUS/DOWNLOADS/releases). 
+The `.zip` file includes all needed dependencies and packages.
+You must be on a Non-Treble ARM32 or ARM64 One UI ROM.
+Put the `.zip` package inside your phone, make a backup of your previous `boot.img` 
+and flash the latest available `.zip` file!
 
 ## LICENSE
 ----------
