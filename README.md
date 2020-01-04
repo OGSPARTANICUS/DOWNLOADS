@@ -18,11 +18,14 @@
 
 ## Installing
 ----------
+For Generic System Images
 
 Download the `.zip` file [here](http://github.com/SPART4NICUS/DOWNLOADS/releases). 
 The `.zip` file includes all needed dependencies and packages. 
 You must have [Project-Spaget](https://forum.xda-developers.com/galaxy-j7/samsung-galaxy-j7-prime--j7-on-nxt-exynos7870/treble-projectspaget-trebleport-v3-0-t3953461) version 3 or above.
 Put the `.zip` package inside your phone, make a backup of your previous `boot.img` and flash the latest available `.zip` file!
+
+For One UI
 
 ## LICENSE
 ----------
