@@ -1,4 +1,4 @@
-# Project-Butter 4.0
+# Project-Butter 4.0 (KRAKENKernel)
 
 ![logo](https://cdn.dribbble.com/users/3254730/screenshots/7002482/kraken_shot_dribbble.png "Header.exe")
 
