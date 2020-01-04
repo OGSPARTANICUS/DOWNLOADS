@@ -1,4 +1,5 @@
 # Project-Butter 4.0 (KRAKENKernel)
+----------
 
 ![logo](https://cdn.dribbble.com/users/3254730/screenshots/7002482/kraken_shot_dribbble.png "Header.exe")
 
@@ -8,7 +9,12 @@
 
 ## Compatibility
 ----------
-
+* Android 9+
+* Exynos 7870 SoC
+* ARM32
+* ARM64
+* Samsung One UI
+* Generic System Images
 
 ## Installing
 ----------
